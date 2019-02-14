@@ -17,6 +17,13 @@ Luniux 筆記
 =======
 Linux 筆記
 ====
-基礎文件---06
+基礎文件---09
 ---
+###  Vim 模式
+1.command made(一般模式)
+
+2.insert made(編輯模式)
+
+3.command-line made(指令列命令模式)
+
 
